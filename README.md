@@ -13,5 +13,9 @@
   - 5) CNN_고급(covid): https://bit.ly/3U0PY1q
 
 - AI for Security
-  - 1) Capcha breaker with OCR  : https://bit.ly/3foaUQQ
-  - 2) Deepfake: https://bit.ly/3UelU22
+  - 1) 그림그리는 AI: https://bit.ly/3sS0ts3
+	- 2) Capcha breaker with OCR: https://bit.ly/3foaUQQ
+	- 3) Deepfake: https://bit.ly/3UelU22
+	- 4) anomaly detection 1) XGBoost: https://bit.ly/3FImhy0
+	- 5) anomaly detection 2) autoencoder: https://bit.ly/3h6LUy9
+	- 6) anomaly detection 3) gan: https://bit.ly/3sW0vyW
